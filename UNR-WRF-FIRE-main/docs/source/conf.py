@@ -18,9 +18,9 @@ import sphinx_rtd_theme
 
 # -- Project information -----------------------------------------------------
 
-project = 'WRF-Fire Wiki'
+project = 'IS 445 Health and Wellness Project'
 copyright = '2021'
-author = 'UNR'
+author = 'Cameron Shaw, Evan Chinn, Ian Mcgraw, Jason Ikemoto, Phil Lopez'
 
 # The full version, including alpha/beta/rc tags
 release = '2021'
