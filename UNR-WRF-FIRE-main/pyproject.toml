@@ -3,6 +3,6 @@ requires = ["flit_core >=3.2,<4"]
 build-backend = "flit_core.buildapi"
 
 WRF_Fire Wiki
-name = "WRF-Fire Wiki"
+name = "IS 445 Health and Wellness Project"
 authors = name = Evan Chinn, email = evanchinn00@gmail.com
 dynamic = v1
