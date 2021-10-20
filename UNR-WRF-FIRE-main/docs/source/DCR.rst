@@ -80,7 +80,7 @@ Begin lying face down on the floor. Bring your hands close to your chest, tighte
 Starting in a standing position, pull one knee up towards your chest and hold. Repeat this stretch 2-4 times on each leg
 
 *Quadricep Stretch*
-^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^
 
 Starting in a standing position, bend your leg backward and grab the top of your foot with your hand, hold this position and repeat on each leg 2-4 times.
 
