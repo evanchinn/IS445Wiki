@@ -60,14 +60,28 @@ Examples of static stretches:
 -----------------------------
 
 *Shoulder Stretch*
+^^^^^^^^^^^^^^^^^^
+
 Stand feet shoulder-width apart bring your arm across your chest. Bend your other arm and wrap around the front of your crossed arm. Using the bent arm, begin to slowly pull on your crossed arm while still facing forward. You should feel a stretch in the shoulder. Do this for both shoulders.
+
 *Toe Touch*
+^^^^^^^^^^^
+
 Stand facing forward with your feet slightly apart and toes facing forward. Bend from the hips and reach down towards your toes
+
 *Cobra Stretch*
+^^^^^^^^^^^^^^^
+
 Begin lying face down on the floor. Bring your hands close to your chest, tighten your glutes, and slowly begin to curl your chest up away from the floor
+
 *Knee To Chest*
+^^^^^^^^^^^^^^^
+
 Starting in a standing position, pull one knee up towards your chest and hold. Repeat this stretch 2-4 times on each leg
+
 *Quadricep Stretch*
+^^^^^^^^^^^^^^^^^^^
+
 Starting in a standing position, bend your leg backward and grab the top of your foot with your hand, hold this position and repeat on each leg 2-4 times.
 
 
