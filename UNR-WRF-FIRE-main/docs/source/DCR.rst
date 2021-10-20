@@ -25,7 +25,7 @@ Exercises:
 ----------
 
 Squats
-Stand with your feet shoulder-width apart, engage your core and squat down making sure to not let your knees pass your toes. Hold for 10 seconds, and then slowly come back up.
+Stand with your feet shoulder-width apart, engage your core and squat down making sure to not let your knees pass your toes. Hold for 10 seconds, and then slowly come back up. <br>
 High Knees
 Stand feet shoulder-width apart, bring your knee to your chest while rapidly switching back and forth between each leg. Almost as if you were running in place.
 Leg Swings
