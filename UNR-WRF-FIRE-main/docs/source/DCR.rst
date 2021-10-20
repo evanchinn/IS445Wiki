@@ -24,19 +24,27 @@ Dynamic stretches are active movements that utilize a full range of motion to wa
 Exercises:
 ----------
 
-.. raw html
+Squats
+^^^^^^
 
-   Squats <br>
+Stand with your feet shoulder-width apart, engage your core and squat down making sure to not let your knees pass your toes. Hold for 10 seconds, and then slowly come back up.
 
-.. raw html
-    Stand with your feet shoulder-width apart, engage your core and squat down making sure to not let your knees pass your toes. Hold for 10 seconds, and then slowly come back up. <br>
 High Knees
+^^^^^^^^^^
+
 Stand feet shoulder-width apart, bring your knee to your chest while rapidly switching back and forth between each leg. Almost as if you were running in place.
+
 Leg Swings
+^^^^^^^^^^
+
 Standing straight forward, swing your leg back and forth smoothly. Do 10 times each leg.
+
 Lunges
+^^^^^^
 Start standing feet shoulder-width apart, take a big step forward and lower your body with all of your weight shifted to your heels, and then lower your body until your thigh is parallel to the floor.
+
 Arm Circles
+^^^^^^^^^^^
 Standing feet shoulder-width apart, extend your arms out to your side parallel to the floor and slowly start moving your arms in a circular motion, gradually increasing the size of the circles. Repeat the motion in reverse as well.
 
 Static Stretches: Post-Workout
