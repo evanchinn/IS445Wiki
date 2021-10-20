@@ -12,7 +12,7 @@ For a lot of people, stretching is the most overlooked aspect in their journey o
 The truth is, stretching before and after a workout is the most important thing you can do for your body. Stretching means all of the differences in preventing injury, pain, or strain.
 
 Let’s say you were getting ready to workout, but you arrive at the gym after a long day of sitting at school. If you just jump into your exercise you automatically have put yourself at a high risk of injury because you are stressing out muscles that have become tight due to your inactivity.
-
+ 
 When is the Best Time to Stretch?
 It is always a good idea to stretch before AND after your workout. It is a good idea to incorporate dynamic stretching before your workout and static stretching after your workout. Below are some stretches that you can start to incorporate into your routine.
 
@@ -80,7 +80,7 @@ Begin lying face down on the floor. Bring your hands close to your chest, tighte
 Starting in a standing position, pull one knee up towards your chest and hold. Repeat this stretch 2-4 times on each leg
 
 *Quadricep Stretch*
-^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
 
 Starting in a standing position, bend your leg backward and grab the top of your foot with your hand, hold this position and repeat on each leg 2-4 times.
 
