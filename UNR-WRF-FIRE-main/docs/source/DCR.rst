@@ -84,17 +84,3 @@ Starting in a standing position, pull one knee up towards your chest and hold. R
 
 Starting in a standing position, bend your leg backward and grab the top of your foot with your hand, hold this position and repeat on each leg 2-4 times.
 
-
-**Pages within this section are:**
-
-.. toctree::
-   :titlesonly:
-   :maxdepth: 2
-
-   Linux
-   Ubuntu
-   Mac
-   Windows
-   singularity_container
-   Idealized
-   Real
