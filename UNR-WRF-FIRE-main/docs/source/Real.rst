@@ -42,5 +42,10 @@ Calorie Deficit
 ^^^^^^^^^^^^^^^
 This diet involves eating less calories than your burn, which results in weight loss and is a typical method of dieting.
 
-
+.. image:: images/calorie.jpeg
+  :align: center
+  :width: 700
+  :height: 400
+  :alt: Alternative text
+  
 
