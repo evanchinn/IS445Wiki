@@ -26,9 +26,19 @@ Let’s take pushups as an example.There’s plenty of variations, they help bui
 
 A short breakdown, from easier to more difficult variation would like this:
 
-Incline Pushups: Stand in front of an object anywhere from stomach height to knee height. The taller the object the easier, lower the object the more difficult. Place hands on object about shoulder-width apart. Keep your body in a straight line and keep your head aligned with your body. Perform a pushup and return to the starting position. Repeat.
-Full Pushups: Get onto the floor on all fours, hands flat on the ground, back straight and arms about shoulder-width apart. Keep your head facing forward and lower yourself till your chest is  close but not touching the ground. Push back up and return to the starting position.
-Archer Pushups: Get into pushup position with arms angled out about 45 degrees. Lower yourself down towards one hand until your shoulder almost touches one hand while your other arm fully extends out in the other direction. Repeat with the alternate side.
+Incline Pushups: 
+^^^^^^^^^^^^^^^^
+
+Stand in front of an object anywhere from stomach height to knee height. The taller the object the easier, lower the object the more difficult. Place hands on object about shoulder-width apart. Keep your body in a straight line and keep your head aligned with your body. Perform a pushup and return to the starting position. Repeat.
+
+Full Pushups:
+^^^^^^^^^^^^^
+Get onto the floor on all fours, hands flat on the ground, back straight and arms about shoulder-width apart. Keep your head facing forward and lower yourself till your chest is  close but not touching the ground. Push back up and return to the starting position.
+
+Archer Pushups: 
+^^^^^^^^^^^^^^^
+
+Get into pushup position with arms angled out about 45 degrees. Lower yourself down towards one hand until your shoulder almost touches one hand while your other arm fully extends out in the other direction. Repeat with the alternate side.
 
 .. raw:: html
    <hr>
