@@ -9,6 +9,9 @@ Rock Climbing - Whitney Peak’s Basecamp Gym
   :height: 400
   :alt: Alternative text
   
+.. raw_html
+   <hr> 
+   
 Why I Began Rock Climbing
 =========================
 
