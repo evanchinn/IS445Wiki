@@ -23,3 +23,9 @@ Benefits
 * It improves your workout. People might think that the goats can be a distraction, but they can actually help improve your strength. For example, doing downward dog with a goat on your back could prove to be more difficult than if it wasn’t which will improve your overall strength.
 
 While it may seem or feel ridiculous, goat yoga can be a new and exciting form of exercise to try out if your’re looking for something new in your routine. Many people report having to enjoy it and there are many benefits to it.
+
+.. image:: images/GoatYoga.png
+  :align: center
+  :width: 700
+  :height: 400
+  :alt: Alternative text
