@@ -1,5 +1,11 @@
 .. _real:
 
+.. image:: images/diet.jpeg
+  :align: center
+  :width: 700
+  :height: 400
+  :alt: Alternative text
+  
 ====
 Diet
 ====
