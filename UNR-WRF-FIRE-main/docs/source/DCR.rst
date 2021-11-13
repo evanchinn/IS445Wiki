@@ -84,7 +84,7 @@ Starting in a standing position, pull one knee up towards your chest and hold. R
 
 Starting in a standing position, bend your leg backward and grab the top of your foot with your hand, hold this position and repeat on each leg 2-4 times.
 
-.. image:: images/Stetching.jpeg
+.. image:: images/Stretching.jpeg
   :align: center
   :width: 700
   :height: 400
