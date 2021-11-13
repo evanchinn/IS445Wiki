@@ -25,7 +25,7 @@ The contributing team includes:
 
 .. raw:: html
    
-   <p style="margin-left:2.5%;">- Cameron Shaw, INSERT MAJOR - INSERT GRADE<br>
+   <p style="margin-left:2.5%;">- Cameron Shaw, Finance Major - Senior<br>
 
 .. raw:: html
 
@@ -33,7 +33,7 @@ The contributing team includes:
 
 .. raw:: html
 
-   <p style="margin-left:2.5%;">- Ian Mcgraw, INSERT MAJOR - INSERT GRADE <br>
+   <p style="margin-left:2.5%;">- Ian Mcgraw, Information Systems Major - Junior<br>
 
 .. raw:: html
 
