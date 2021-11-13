@@ -14,12 +14,12 @@ First of all, you be wondering what exactly goat yoga is. Well, it is pretty muc
 Benefits
 --------
 
-*The CDC says that animal therapy can actually help reduce your stress and cholesterol
+* The CDC says that animal therapy can actually help reduce your stress and cholesterol
 
-*Goat yoga keeps you calm. Poses can be hard to perform and in a silent environment can increase frustration and anxiety, but with goats walking around it brings down the stress level and pressure of having to do the pose right. Instead, it helps establish a fun environment for people to focus on their health.
+* Goat yoga keeps you calm. Poses can be hard to perform and in a silent environment can increase frustration and anxiety, but with goats walking around it brings down the stress level and pressure of having to do the pose right. Instead, it helps establish a fun environment for people to focus on their health.
 
-*It helps decrease blood pressure because the stress levels get so low by interacting with the goats and getting to pet them.
+* It helps decrease blood pressure because the stress levels get so low by interacting with the goats and getting to pet them.
 
-*It improves your workout. People might think that the goats can be a distraction, but they can actually help improve your strength. For example, doing downward dog with a goat on your back could prove to be more difficult than if it wasn’t which will improve your overall strength.
+* It improves your workout. People might think that the goats can be a distraction, but they can actually help improve your strength. For example, doing downward dog with a goat on your back could prove to be more difficult than if it wasn’t which will improve your overall strength.
 
 While it may seem or feel ridiculous, goat yoga can be a new and exciting form of exercise to try out if your’re looking for something new in your routine. Many people report having to enjoy it and there are many benefits to it.
