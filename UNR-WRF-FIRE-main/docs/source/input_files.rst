@@ -3,6 +3,12 @@
 Rock Climbing - Whitney Peak’s Basecamp Gym
 ============================================
 
+.. image:: images/rockclimbing.jpeg
+  :align: center
+  :width: 700
+  :height: 400
+  :alt: Alternative text
+  
 Why I Began Rock Climbing
 =========================
 
@@ -22,3 +28,9 @@ Preference of My Climbs at Basecamp
 ===================================
 
 I would go primarily at nighttime after 7:45, in my own experience it is way too busy before this point to be enjoyable. Too many people and they host classes for children, so it can be chaotic if you go during peak hours. Overall, I would say the experience was very helpful and enjoyable. Next time I want to buy shoes beforehand to make it so I have no need for the monthly equipment rental. I would also like to figure out when the least busy times are so I can have all the walls to myself. 
+
+.. image:: images/basecamp.jpeg
+  :align: center
+  :width: 700
+  :height: 400
+  :alt: Alternative text
