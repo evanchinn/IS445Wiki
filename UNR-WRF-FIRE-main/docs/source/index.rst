@@ -55,6 +55,6 @@ The contributing team includes:
    DCR
    input_files
    case_studies 
-   visualization
-   faq
-   forum
+   Linux
+   Ubuntu
+   Real
