@@ -24,7 +24,7 @@ Benefits
 
 While it may seem or feel ridiculous, goat yoga can be a new and exciting form of exercise to try out if your’re looking for something new in your routine. Many people report having to enjoy it and there are many benefits to it.
 
-.. image:: images/GoatYoga.png
+.. image:: images/GoatYoga.jpeg
   :align: center
   :width: 700
   :height: 400
