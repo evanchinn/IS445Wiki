@@ -45,4 +45,9 @@ Get into pushup position with arms angled out about 45 degrees. Lower yourself d
    
 There are plenty of variations that are easier, harder and in between these examples, but the idea remains. You take a variation that you can do at whatever fitness level you are and move on to harder variations as soon as you can. Do that with roughly 5 full body exercises and you have a full routine that you can do even if you can’t make it to the gym!
 
+.. image:: images/Calesthenics.jpeg
+  :align: center
+  :width: 700
+  :height: 400
+  :alt: Alternative text
 
