@@ -19,8 +19,8 @@ Moving on to harder variations as you master easier ones.
 
 Full body exercises may sound scary to beginners, but all it means are exercises that work several muscle groups at once rather than just one. You probably already know more of these than you think. Pushups, leg raises, pullups, and squats are just a few examples of full-body exercises. 
 
-Example
--------
+Examples
+--------
 
 Let’s take pushups as an example.There’s plenty of variations, they help build upper body and core strength while usually focusing on biceps, pectorals and sometimes triceps, trapezius and core muscles depending on the variation.
 
