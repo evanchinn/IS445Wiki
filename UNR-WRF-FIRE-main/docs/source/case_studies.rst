@@ -22,4 +22,8 @@ Side Effects of Preworkout
 ==========================
 While pre-workouts can provide many benefits to people it also has health risks if it over consumed and could have negative effects on the body. Because most pre-workouts contain such a high amount of caffeine there is a warning to not take more than one dose per day because that amount of caffeine could have a negative impact on the healthiness of someone’s heart. Also, most clinical studies for pre-workout are conducted over an 8-12 week period shows the effect that pre-workout has on someone’s body. But they conclude after that amount of time so the long-term effects of taking pre-workout are relatively unknown. Not to say that pre-workout is bad for people but it should not be consumed every day because there is very much unknown about the long-term effects it has. A good way to reduce the risk of developing a health problem is to take breaks from taking pre-workout like not using it for a week out of the month.
 
-
+.. image:: images/preworkout.jpeg
+  :align: center
+  :width: 700
+  :height: 400
+  :alt: Alternative text
